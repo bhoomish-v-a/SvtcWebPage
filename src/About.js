@@ -11,7 +11,7 @@ function About() {
         <div className="row align-items-center">
           <div className="col-md-6">
             <img 
-              src="/images/mother 007.jpg" 
+              src="images/mother 007.jpg" 
               alt="Sree Velmurugan Trading Company Building" 
               className="img-fluid rounded shadow-lg" 
               style={{ border: "5px solid #0d6efd" }}
@@ -20,7 +20,7 @@ function About() {
           <div className="col-md-6">
             <h3 className="text-primary fw-bold">Who We Are</h3>
             <p className="text-muted">
-              Established in **[Year of Establishment]**, **Sree Velmurugan Trading Company** has become a leading name in the **plumbing, electrical, and construction materials** industry. Based in **Namakkal, Tamil Nadu**, we proudly serve a broad clientele with high-quality products, reliable services, and a commitment to excellence.
+              Established in 2002, **Sree Velmurugan Trading Company** has become a leading name in the **plumbing, electrical, and construction materials** industry. Based in **Namakkal, Tamil Nadu**, we proudly serve a broad clientele with high-quality products, reliable services, and a commitment to excellence.
             </p>
             <p className="text-muted">
               Our portfolio includes top-notch brands like **CPVC & UPVC Pipes**, **Kundan Wires**, **Finolex Pipes**, and **Nippon Paint**, ensuring durability, safety, and superior performance.
