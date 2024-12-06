@@ -11,7 +11,7 @@ function About() {
         <div className="row align-items-center">
           <div className="col-md-6">
             <img 
-              src="images/mother 007.jpg" 
+              src="images/mother 007.JPG" 
               alt="Sree Velmurugan Trading Company Building" 
               className="img-fluid rounded shadow-lg" 
               style={{ border: "5px solid #0d6efd" }}
