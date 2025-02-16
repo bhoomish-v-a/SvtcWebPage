@@ -101,7 +101,7 @@ function About() {
         <h3 className="text-secondary text-center mb-3">Why Choose Us?</h3>
         <ul className="list-group shadow-lg">
           <li className="list-group-item bg-light">
-            <strong>Extensive Industry Experience:</strong> Over **[Years]** years of expertise in the trading business.
+            <strong>Extensive Industry Experience:</strong> Over 20 years of expertise in the trading business.
           </li>
           <li className="list-group-item bg-light">
             <strong>High-Quality Products:</strong> Sourcing premium brands to ensure durability and performance.
