@@ -81,7 +81,7 @@ function About() {
               style={{ width: '150px', height: '150px', border: '3px solid #0d6efd' }} 
             />
             <h5 className="text-primary fw-bold">Bhoomish V A</h5>
-            <p className="text-muted">Operations Manager</p>
+            <p className="text-muted">Directing Manager</p>
           </div>
           <div className="col-md-4">
             <img 
@@ -91,7 +91,7 @@ function About() {
               style={{ width: '150px', height: '150px', border: '3px solid #0d6efd' }} 
             />
             <h5 className="text-primary fw-bold">Kavitha M</h5>
-            <p className="text-muted">Sales & Marketing Head</p>
+            <p className="text-muted">Sales & Marketing </p>
           </div>
         </div>
       </section>
